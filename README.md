@@ -4,7 +4,7 @@
 
 ## Demo of the Tic Tac Toe app
 
-[!Demo gif of the app](https://github.com/sakthivelan21/TicTacToe-app/blob/main/screenshots/app.gif?raw=true)
+![Demo gif of the app](https://github.com/sakthivelan21/TicTacToe-app/blob/main/screenshots/app.gif?raw=true)
 
 ## Layout used 
 
