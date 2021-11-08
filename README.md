@@ -1,10 +1,12 @@
-# TicTacToe-app
+# TicTacToe Android app
 
-## A Tic Tac Toe app which is powered by Mini-max algorithm
+## A Tic-Tac-Toe android app which is powered by Mini-max algorithm
 
-## Demo of the Tic Tac Toe app
+## Demo of the Tic-Tac-Toe android app
 
-![Demo gif of the app](https://github.com/sakthivelan21/TicTacToe-app/blob/main/screenshots/app.gif?raw=true)
+<p align="center">
+  <img  src="https://github.com/sakthivelan21/TicTacToe-app/blob/main/screenshots/app.gif?raw=true" width="400" height="650" alt="demo-image"/>
+</p>
 
 ## Layout used 
 
